@@ -1,4 +1,4 @@
-# Alert--Triage-Workflow---AccuKnox-Assignment-
+# Alert--Triage--Workflow---AccuKnox-Assignment-
 Alert Management Dashboard for Cloud Security Engineer 
 
 Figma screens link - https://www.figma.com/design/7t3KxabM6IVeJvyHSuJ61S/Alert-Management-Dashboard?node-id=0-1&t=efJCnLQ4Pw54cKrx-1
