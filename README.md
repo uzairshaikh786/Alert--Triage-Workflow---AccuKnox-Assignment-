@@ -16,13 +16,13 @@ Experience: 2–6 years
 Manages alerts across multiple cloud accounts (AWS/GCP/Azure)
 
 Responsible for:
-Investigating security alerts
-Identifying misconfigurations
+Investigating security alerts,
+Identifying misconfigurations,
 Coordinating fixes or resolving directly
 
 Pain points:
-Too many alerts, not all critical
-Switching between tools for context
+Too many alerts, not all critical,
+Switching between tools for context,
 Difficulty prioritizing what needs immediate action
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
